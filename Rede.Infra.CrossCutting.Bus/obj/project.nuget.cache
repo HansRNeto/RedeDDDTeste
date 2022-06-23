@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lpe7YaK+uAPFj68P6dYTXzYbs+ht7ZCM8jHaVIg2VqUTTKYNRPnsS5Js3dvujQCf4KXwwgjCrObojb1B3LnTA==",
+  "success": true,
+  "projectFilePath": "/home/Hrosst/RiderProjects/Rede/Rede.Infra.CrossCutting.Bus/Rede.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "/home/Hrosst/.nuget/packages/fluentvalidation/11.0.3/fluentvalidation.11.0.3.nupkg.sha512",
+    "/home/Hrosst/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

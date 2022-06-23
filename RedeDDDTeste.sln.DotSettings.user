@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20b161b8_002De76c_002D4563_002Dbfd7_002Dd24af495307b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetById #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.CurrencyAccountAppServiceTests.GetById&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.BankingOperationsAppServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.CustomerAppServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.CurrencyAccountAppServiceTests.GetAll&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4aedbf44_002D5088_002D49c3_002D99fa_002D5ba1eac2871e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetById" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.CurrencyAccountAppServiceTests.GetById&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.BankingOperationsAppServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.CustomerAppServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::381D152C-AF59-4AB6-8B10-D9E6F64C20B3::net6.0::Rede.Tests.UnitTests.Services.CurrencyAccountAppServiceTests.GetAll&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

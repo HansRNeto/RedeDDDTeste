@@ -1,0 +1,15 @@
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/bin/Debug/net6.0/Rede.Infra.CrossCutting.Bus.deps.json
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/bin/Debug/net6.0/Rede.Infra.CrossCutting.Bus.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/bin/Debug/net6.0/Rede.Infra.CrossCutting.Bus.pdb
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/bin/Debug/net6.0/Rede.Domain.Core.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/bin/Debug/net6.0/Rede.Domain.Core.pdb
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.csproj.AssemblyReference.cache
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.AssemblyInfo.cs
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.csproj.CopyComplete
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/refint/Rede.Infra.CrossCutting.Bus.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/Rede.Infra.CrossCutting.Bus.pdb
+/home/Hrosst/RiderProjects/RedeDB/Rede.Infra.CrossCutting.Bus/obj/Debug/net6.0/ref/Rede.Infra.CrossCutting.Bus.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cMn9aHsvqHQvZ/Aeggu0Ar6KeN5jAjuvLtlnrnM0wpVP8y43+oSk+BM/B4qo/ulKbTWklmqo3B7MiMZtk+AcQ==",
+  "success": true,
+  "projectFilePath": "/home/Hrosst/RiderProjects/Rede/Rede.Domain.Core/Rede.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/Hrosst/.nuget/packages/fluentvalidation/11.0.3/fluentvalidation.11.0.3.nupkg.sha512",
+    "/home/Hrosst/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

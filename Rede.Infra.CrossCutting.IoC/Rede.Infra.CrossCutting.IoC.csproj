@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Rede.Domain\Rede.Domain.csproj" />
+      <ProjectReference Include="..\Rede.Infra.CrossCutting.Identity\Rede.Infra.CrossCutting.Identity.csproj" />
+      <ProjectReference Include="..\Rede.Infra.Data\Rede.Infra.Data.csproj" />
+      <ProjectReference Include="..\Rede.Service\Rede.Service.csproj" />
+    </ItemGroup>
+
+</Project>

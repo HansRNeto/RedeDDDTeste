@@ -1,0 +1,12 @@
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/bin/Debug/net6.0/Rede.Domain.Core.deps.json
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/bin/Debug/net6.0/Rede.Domain.Core.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/bin/Debug/net6.0/Rede.Domain.Core.pdb
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.csproj.AssemblyReference.cache
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.AssemblyInfoInputs.cache
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.AssemblyInfo.cs
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.csproj.CoreCompileInputs.cache
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/refint/Rede.Domain.Core.dll
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/Rede.Domain.Core.pdb
+/home/Hrosst/RiderProjects/RedeDB/Rede.Domain.Core/obj/Debug/net6.0/ref/Rede.Domain.Core.dll
